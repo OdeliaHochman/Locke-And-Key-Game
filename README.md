@@ -1,6 +1,6 @@
 # Locke & Key Game
 
-Final project in development of computer games course.
+Final project game in the course - Computer Games Development at Ariel University 2020.
 
 Created by:
 
